@@ -63,6 +63,7 @@ The following software is installed in the server:
 - As of 4/16/18 all packages are updated
 
 #  Third-Party Resources Used
+  DigitalOcean.com was used for apache2 server configuration 
 
 - https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
 
