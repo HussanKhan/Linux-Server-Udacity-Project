@@ -6,6 +6,7 @@ a catalog project for Udacity's FullStack Nanodegree Program.
 IP Address: http://18.221.98.183/
 
 (Use site with URL, otherwise Goolge login does not work)
+
 URL: http://ec2-18-221-98-183.us-east-2.compute.amazonaws.com/
 
 # SSH Information
@@ -22,6 +23,7 @@ The zipped file contains the public key and private key.
 2. In a Linux machine, do the following
 
    sudo touch /home/yourusername/.ssh/grader
+   
    sudo touch /home/yourusername/.ssh/grader.pub
 
 3. sudo nano /home/yourusername/.ssh/grader.pub
