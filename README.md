@@ -12,7 +12,7 @@ URL: http://ec2-18-221-98-183.us-east-2.compute.amazonaws.com/
 # SSH Information
 SSH Port: 2200
 
-The SHA key-pair is sent to the reviewer in password protected .zip file.
+The SHA key-pair is sent to the reviewer in a .zip file.
 
 The zipped file contains the public key and private key.
 
